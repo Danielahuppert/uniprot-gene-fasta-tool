@@ -1,0 +1,6 @@
+# Minimal dependencies for day04 UniProt CLI
+requests>=2.28
+
+# Optional (for testing/mocking, if you add tests later):
+# pytest
+# requests-mock
