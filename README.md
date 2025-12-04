@@ -1,4 +1,4 @@
-# day04 — UniProt FASTA fetcher
+UniProt FASTA fetcher
 
 This small project fetches a protein FASTA sequence from UniProt using a gene name.
 
